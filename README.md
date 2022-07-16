@@ -10,7 +10,7 @@ model by adding upon and tweaking the already existing cell circuit until it res
 then use a similar strategy to convert the resulting asymmetric matrix to a symmetric one and then exploit
 its symmetry to obtain its eigenvalues and eigenvectors
 
-Author - Javeria Ahmed
-Department of Computational & Applied Math
-George R. Brown School of Engineering
+Author - Javeria Ahmed <br>
+Department of Computational & Applied Math <br>
+George R. Brown School of Engineering <br>
 Rice University
